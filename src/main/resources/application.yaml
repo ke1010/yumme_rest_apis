@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/yumme_db?useSSL=false
+    url: jdbc:mysql://localhost:3306/yumme_db?allowPublicKeyRetrieval=true
     username: dummy
     password: root
   jpa:
