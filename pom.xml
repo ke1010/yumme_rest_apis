@@ -44,7 +44,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<mainClass> food.delivery.yummy.YummyApplication</mainClass>
+					<mainClass>food.delivery.yumme.YummeApplication</mainClass>
 				</configuration>
 			</plugin>
 		</plugins>
